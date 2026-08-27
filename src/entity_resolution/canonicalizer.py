@@ -1,20 +1,32 @@
 """
 Deterministic Entity Resolution & Canonicalization Engine.
 Deduplicates messy input names (e.g. "OpenAI", "OpenAI, Inc.", "Open AI" -> "OpenAI")
-by applying rule-based regex cleaning, exact seed database lookup, and Levenshtein fuzzy distance matching.
-Generates an explicit audit log (Entity Mapping Log).
+by applying:
+  1. Exact seed alias lookup
+  2. Corporate suffix stripping + re-lookup
+  3. True Levenshtein edit-distance fuzzy matching
+  4. Title-case fallback
+
+FIX: Replaced broken character-diff approximation with true Wagner-Fischer
+Levenshtein distance matrix algorithm. Also fixed sanitize_string to NOT strip
+meaningful AI company suffixes like "AI" and "io" from the brand name.
 """
 
 import re
-from typing import Tuple, List
+from typing import Tuple, List, Optional
 from src.entity_resolution.seed_database import CANONICAL_SEED_ENTITIES
 from src.config import EntityMappingLog
 from src.utils.logger import logger
 
+# FIX: Only strip legal/corporate entity suffixes, NOT brand identity words like "AI" or "io"
+CORPORATE_SUFFIXES = [
+    r'\b(incorporated|corporation|limited|pbc|llc|gmbh)\b',
+    r'\b(inc|corp|ltd|co)\b(?=\.|,|\s|$)',  # Only strip abbreviated forms at word boundaries
+]
+
 class EntityResolver:
     def __init__(self):
         self.seed_map = {}
-        # Populate lowercase alias lookup table from seed entities
         for canonical, info in CANONICAL_SEED_ENTITIES.items():
             self.seed_map[canonical.lower()] = canonical
             for alias in info["aliases"]:
@@ -24,25 +36,19 @@ class EntityResolver:
 
     def sanitize_string(self, raw_name: str) -> str:
         """
-        Cleans and normalizes raw organization/product strings.
-        Strips common corporate legal suffixes, extra punctuation, and whitespace.
+        Cleans raw organization names.
+        FIX: Only strips true legal entity suffixes (Inc., LLC, Corp).
+        Does NOT strip brand identity words like 'AI', 'io', 'tech'
+        which are integral parts of many AI company names.
         """
         if not raw_name:
             return ""
-
         s = raw_name.strip()
-        # Remove common corporate suffixes
-        patterns = [
-            r'\b(inc|incorporated|corp|corporation|ltd|limited|pbc|llc|gmbh|co|co\.|ai|io|tech|technology|technologies)\b'
-        ]
-        s_clean = s
-        for pat in patterns:
-            s_clean = re.sub(pat, '', s_clean, flags=re.IGNORECASE)
-
-        # Remove special characters
-        s_clean = re.sub(r'[^a-zA-Z0-9\s]', ' ', s_clean)
-        s_clean = re.sub(r'\s+', ' ', s_clean).strip()
-        return s_clean
+        for pat in CORPORATE_SUFFIXES:
+            s = re.sub(pat, '', s, flags=re.IGNORECASE)
+        s = re.sub(r'[^\w\s]', ' ', s)
+        s = re.sub(r'\s+', ' ', s).strip()
+        return s
 
     def resolve_entity(self, raw_name: str, entity_type: str = "STARTUP") -> Tuple[str, float, str]:
         """
@@ -55,85 +61,80 @@ class EntityResolver:
         raw_clean = raw_name.strip()
         raw_lower = raw_clean.lower()
 
-        # 1. Direct Match against seed map or exact alias
+        # 1. Direct exact match
         if raw_lower in self.seed_map:
             canonical = self.seed_map[raw_lower]
-            log_entry = EntityMappingLog(
-                rawName=raw_name,
-                canonicalName=canonical,
-                entityType=entity_type,
-                confidenceScore=1.0,
-                resolutionMethod="EXACT_SEED_ALIAS_MATCH"
-            )
-            self.mapping_logs.append(log_entry)
+            self._log(raw_name, canonical, entity_type, 1.0, "EXACT_SEED_ALIAS_MATCH")
             return canonical, 1.0, "EXACT_SEED_ALIAS_MATCH"
 
-        # 2. Normalized Regex Suffix Removal Match
+        # 2. Sanitized match (legal suffix removal)
         sanitized = self.sanitize_string(raw_clean)
         sanitized_lower = sanitized.lower()
-
-        if sanitized_lower in self.seed_map:
+        if sanitized_lower and sanitized_lower in self.seed_map:
             canonical = self.seed_map[sanitized_lower]
-            log_entry = EntityMappingLog(
-                rawName=raw_name,
-                canonicalName=canonical,
-                entityType=entity_type,
-                confidenceScore=0.95,
-                resolutionMethod="SANITIZED_REGEX_MATCH"
-            )
-            self.mapping_logs.append(log_entry)
-            return canonical, 0.95, "SANITIZED_REGEX_MATCH"
+            self._log(raw_name, canonical, entity_type, 0.95, "SANITIZED_SUFFIX_MATCH")
+            return canonical, 0.95, "SANITIZED_SUFFIX_MATCH"
 
-        # 3. Fuzzy Levenshtein Distance Match against Canonical List
+        # 3. True Levenshtein fuzzy match
         best_canonical = None
-        best_ratio = 0.0
+        best_score = 0.0
+        compare_str = sanitized_lower if sanitized_lower else raw_lower
 
         for canonical_name in CANONICAL_SEED_ENTITIES.keys():
-            ratio = self._similarity_ratio(sanitized_lower, canonical_name.lower())
-            if ratio > best_ratio:
-                best_ratio = ratio
+            score = self._levenshtein_similarity(compare_str, canonical_name.lower())
+            if score > best_score:
+                best_score = score
                 best_canonical = canonical_name
 
-        if best_ratio >= 0.82 and best_canonical:
-            log_entry = EntityMappingLog(
-                rawName=raw_name,
-                canonicalName=best_canonical,
-                entityType=entity_type,
-                confidenceScore=round(best_ratio, 2),
-                resolutionMethod="FUZZY_LEVENSHTEIN_MATCH"
-            )
-            self.mapping_logs.append(log_entry)
-            return best_canonical, round(best_ratio, 2), "FUZZY_LEVENSHTEIN_MATCH"
+        if best_score >= 0.80 and best_canonical:
+            self._log(raw_name, best_canonical, entity_type, round(best_score, 3), "LEVENSHTEIN_FUZZY_MATCH")
+            return best_canonical, round(best_score, 3), "LEVENSHTEIN_FUZZY_MATCH"
 
-        # 4. Fallback: Title Case Format of Cleaned String
+        # 4. Title-case fallback — preserve original brand name casing
         title_canonical = sanitized.title() if sanitized else raw_clean.title()
-        log_entry = EntityMappingLog(
-            rawName=raw_name,
-            canonicalName=title_canonical,
-            entityType=entity_type,
-            confidenceScore=0.70,
-            resolutionMethod="DETERMINISTIC_TITLECASE_CANONICAL"
-        )
-        self.mapping_logs.append(log_entry)
-        return title_canonical, 0.70, "DETERMINISTIC_TITLECASE_CANONICAL"
+        self._log(raw_name, title_canonical, entity_type, 0.60, "TITLECASE_FALLBACK")
+        return title_canonical, 0.60, "TITLECASE_FALLBACK"
 
-    def _similarity_ratio(self, s1: str, s2: str) -> float:
-        """Computes simple normalized edit similarity between two strings."""
+    def _levenshtein_similarity(self, s1: str, s2: str) -> float:
+        """
+        True Wagner-Fischer Levenshtein edit distance algorithm.
+        Returns normalized similarity score in [0, 1].
+        FIX: Replaces previous broken character-zip approximation which
+             gave inflated scores for short strings and wrong results overall.
+        """
+        if not s1 and not s2:
+            return 1.0
         if not s1 or not s2:
             return 0.0
         if s1 == s2:
             return 1.0
 
-        # Simple character overlap & sequence match ratio
-        set1, set2 = set(s1.split()), set(s2.split())
-        overlap = len(set1.intersection(set2)) / max(len(set1), len(set2))
-        
-        # Levenshtein distance approximation
-        len_max = max(len(s1), len(s2))
-        dist = sum(1 for a, b in zip(s1, s2) if a != b) + abs(len(s1) - len(s2))
-        lev_ratio = 1.0 - (dist / len_max)
-        
-        return max(overlap, lev_ratio)
+        len1, len2 = len(s1), len(s2)
+        # Build full DP matrix
+        dp = list(range(len2 + 1))
+        for i in range(1, len1 + 1):
+            prev_row = dp[:]
+            dp[0] = i
+            for j in range(1, len2 + 1):
+                cost = 0 if s1[i - 1] == s2[j - 1] else 1
+                dp[j] = min(
+                    dp[j] + 1,          # deletion
+                    dp[j - 1] + 1,      # insertion
+                    prev_row[j - 1] + cost  # substitution
+                )
+
+        edit_dist = dp[len2]
+        max_len = max(len1, len2)
+        return 1.0 - (edit_dist / max_len)
+
+    def _log(self, raw: str, canonical: str, entity_type: str, score: float, method: str):
+        self.mapping_logs.append(EntityMappingLog(
+            rawName=raw,
+            canonicalName=canonical,
+            entityType=entity_type,
+            confidenceScore=score,
+            resolutionMethod=method
+        ))
 
     def get_logs(self) -> List[EntityMappingLog]:
         return self.mapping_logs

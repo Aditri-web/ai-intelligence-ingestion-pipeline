@@ -20,11 +20,18 @@ class RateLimiter:
         self.base_delay = base_delay
         self.max_delay = max_delay
         self.last_request_time = 0.0
-        self._lock = asyncio.Lock()
+        # FIX: asyncio.Lock() must be created lazily inside a running event loop
+        # Creating it at __init__ time causes DeprecationWarning / RuntimeError in Python 3.10+
+        self._lock: Optional[asyncio.Lock] = None
+
+    def _get_lock(self) -> asyncio.Lock:
+        if self._lock is None:
+            self._lock = asyncio.Lock()
+        return self._lock
 
     async def acquire(self):
         """Token-bucket timing wait before launching API requests."""
-        async with self._lock:
+        async with self._get_lock():
             now = time.time()
             elapsed = now - self.last_request_time
             if elapsed < self.interval:
@@ -50,8 +57,9 @@ class RateLimiter:
                     raise e
 
                 backoff = min(self.max_delay, self.base_delay * (2 ** attempt))
-                jitter = random.uniform(0, backoff * 0.5)
-                total_wait = backoff + jitter
+                # Full Jitter strategy: random value in [0, backoff] — proven best for distributed systems
+                jitter = random.uniform(0, backoff)
+                total_wait = jitter
 
                 if is_rate_limit:
                     logger.warning(f"[429 Rate Limit Detected] Attempt {attempt+1}/{self.max_retries}. Backing off for {total_wait:.2f}s. Error: {e}")

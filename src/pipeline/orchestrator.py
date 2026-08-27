@@ -41,17 +41,28 @@ class IngestionPipelineOrchestrator:
             news_crawler = NewsCrawler()
             job_crawler = JobCrawler()
 
-            # Execute tasks asynchronously
+            # Execute all scrapers concurrently.
+            # FIX: return_exceptions=True ensures one failing scraper doesn't crash the full pipeline.
             results = await asyncio.gather(
                 research_scraper.scrape_all(session),
                 startup_scraper.scrape_all(session),
                 product_scraper.scrape_all(session),
                 news_crawler.crawl_all(session),
                 job_crawler.crawl_all(session),
-                return_exceptions=False
+                return_exceptions=True
             )
 
-            papers, startups, products, news, jobs = results
+            scraper_names = ["research_papers", "startups", "products", "news", "jobs"]
+            papers, startups, products, news, jobs = [], [], [], [], []
+            safe_results = [papers, startups, products, news, jobs]
+
+            for i, (name, result) in enumerate(zip(scraper_names, results)):
+                if isinstance(result, Exception):
+                    logger.error(f"[Scraper Failed] '{name}' raised an exception: {result}. Continuing with empty dataset.")
+                else:
+                    safe_results[i].extend(result)
+
+            papers, startups, products, news, jobs = safe_results
 
             # Phase IV: Entity Resolution & Canonicalization
             logger.info("Executing Phase IV: Deterministic Entity Resolution...")
