@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphOne / FrontierAtlas - AI Intelligence Ingestion Pipeline</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/inter-ui@3.19.3/inter.css">
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --card-bg: #1e293b;
+            --accent-blue: #38bdf8;
+            --accent-indigo: #818cf8;
+            --text-main: #f8fafc;
+            --text-sub: #94a3b8;
+            --border-color: #334155;
+            --success-green: #34d399;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(56, 189, 248, 0.1);
+            color: var(--accent-blue);
+            padding: 0.4rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            margin-bottom: 1rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #f8fafc 0%, #94a3b8 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        p.subtitle {
+            color: var(--text-sub);
+            font-size: 1.1rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-blue);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .card-title {
+            font-size: 1rem;
+            color: var(--text-sub);
+            font-weight: 600;
+        }
+
+        .metric {
+            font-size: 2.2rem;
+            font-weight: 800;
+            color: var(--accent-blue);
+        }
+
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            background-color: var(--success-green);
+            border-radius: 50%;
+            display: inline-block;
+            box-shadow: 0 0 10px var(--success-green);
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--text-main);
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 3rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.8rem 1.5rem;
+            background: linear-gradient(135deg, var(--accent-blue) 0%, var(--accent-indigo) 100%);
+            color: #0f172a;
+            font-weight: 700;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: opacity 0.2s;
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        .btn-secondary {
+            background: var(--card-bg);
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--accent-blue);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 3rem;
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        th {
+            background-color: rgba(15, 23, 42, 0.6);
+            color: var(--accent-blue);
+            font-weight: 600;
+        }
+
+        td {
+            color: var(--text-sub);
+        }
+
+        footer {
+            text-align: center;
+            color: var(--text-sub);
+            font-size: 0.9rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <span class="badge">GRAPHONE / FRONTIERATLAS</span>
+            <h1>AI Intelligence Ingestion Pipeline</h1>
+            <p class="subtitle">Production Data Pipeline, Multi-Tier LLM Structuring & Entity Resolution Engine</p>
+        </header>
+
+        <div class="grid">
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Startups Ingested</span>
+                    <span class="status-dot"></span>
+                </div>
+                <div class="metric">1,000</div>
+                <p style="color: var(--text-sub); font-size: 0.85rem; margin-top: 0.5rem;">Target: 1,000 | Format: JSON / CSV</p>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Products Ingested</span>
+                    <span class="status-dot"></span>
+                </div>
+                <div class="metric">1,000</div>
+                <p style="color: var(--text-sub); font-size: 0.85rem; margin-top: 0.5rem;">Target: 1,000 | Pricing Enums</p>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Research Papers</span>
+                    <span class="status-dot"></span>
+                </div>
+                <div class="metric">1,000</div>
+                <p style="color: var(--text-sub); font-size: 0.85rem; margin-top: 0.5rem;">Target: 1,000 | GitHub Star Tracked</p>
+            </div>
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Entity Resolution Audit</span>
+                    <span class="status-dot"></span>
+                </div>
+                <div class="metric">2,025</div>
+                <p style="color: var(--text-sub); font-size: 0.85rem; margin-top: 0.5rem;">Raw vs Canonical Deduplication</p>
+            </div>
+        </div>
+
+        <h2 class="section-title">Project Links & Deliverables</h2>
+        <div class="btn-group">
+            <a href="https://github.com/Aditri-web/ai-intelligence-ingestion-pipeline" target="_blank" class="btn">
+                GitHub Repository
+            </a>
+            <a href="https://github.com/Aditri-web/ai-intelligence-ingestion-pipeline/blob/main/architecture.pdf" target="_blank" class="btn btn-secondary">
+                Architecture PDF (3 Pages)
+            </a>
+            <a href="https://github.com/Aditri-web/ai-intelligence-ingestion-pipeline/blob/main/data_output/pipeline_output_all.xlsx" target="_blank" class="btn btn-secondary">
+                Download 6-Tab Workbook (.xlsx)
+            </a>
+        </div>
+
+        <h2 class="section-title">Pipeline Architecture Summary</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Component</th>
+                    <th>Strategy</th>
+                    <th>Implementation Detail</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Phase I: Bulk Extraction</strong></td>
+                    <td>Async Scraping &amp; GitHub Star Correlation</td>
+                    <td>Ingests arXiv, Papers with Code, YC Directory, and ProductHunt listing.</td>
+                </tr>
+                <tr>
+                    <td><strong>Phase II: Signal Ingestion</strong></td>
+                    <td>Strict &lt; 24h Freshness &amp; Date Normalization</td>
+                    <td>Monitors 5 AI news feeds and 5 AI job boards. Normalizes relative dates.</td>
+                </tr>
+                <tr>
+                    <td><strong>Phase III: LLM Engine</strong></td>
+                    <td>Multi-Tier Fallback &amp; 413/429 Protection</td>
+                    <td>Gemini Flash &rarr; Groq Llama 3 &rarr; DeepSeek. Semantic chunking &amp; jitter backoff.</td>
+                </tr>
+                <tr>
+                    <td><strong>Phase IV: Entity Resolution</strong></td>
+                    <td>Regex Cleaning &amp; Levenshtein Fuzzy Matching</td>
+                    <td>Canonicalizes messy names against 50+ seed AI entities with full audit logging.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <footer>
+            GraphOne / FrontierAtlas AI Engineer Task | Built with Python, aiohttp, &amp; Vercel Static Hosting
+        </footer>
+    </div>
+</body>
+</html>
