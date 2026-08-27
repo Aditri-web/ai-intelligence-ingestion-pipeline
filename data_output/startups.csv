@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source.name,source.url,content.entityName,content.data.employeeCount,collectedAt
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/openai,OpenAI,32,2026-08-27T11:50:29.908814+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/anthropic,Anthropic,49,2026-08-27T11:50:29.908849+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/cohere,Cohere,66,2026-08-27T11:50:29.908858+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/mistral-ai,Mistral AI,83,2026-08-27T11:50:29.908864+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/hugging-face,Hugging Face,100,2026-08-27T11:50:29.908869+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/scale-ai,Scale AI,117,2026-08-27T11:50:29.908873+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/midjourney,Midjourney,134,2026-08-27T11:50:29.908879+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/perplexity-ai,Perplexity AI,151,2026-08-27T11:50:29.908883+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/jasper-ai,Jasper AI,168,2026-08-27T11:50:29.908887+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/runwayml,RunwayML,185,2026-08-27T11:50:29.908891+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/stability-ai,Stability AI,202,2026-08-27T11:50:29.908895+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/inflection-ai,Inflection AI,219,2026-08-27T11:50:29.908899+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/character.ai,Character.AI,236,2026-08-27T11:50:29.908902+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/eleutherai,EleutherAI,253,2026-08-27T11:50:29.908906+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/together-ai,Together AI,270,2026-08-27T11:50:29.908910+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/anyscale,Anyscale,287,2026-08-27T11:50:29.908915+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/pinecone,Pinecone,304,2026-08-27T11:50:29.908919+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/weaviate,Weaviate,321,2026-08-27T11:50:29.908923+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/qdrant,Qdrant,338,2026-08-27T11:50:29.908926+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/chroma,Chroma,355,2026-08-27T11:50:29.908930+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/langchain,LangChain,372,2026-08-27T11:50:29.908933+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/llamaindex,LlamaIndex,389,2026-08-27T11:50:29.908937+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/weights-&-biases,Weights & Biases,406,2026-08-27T11:50:29.908941+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/deepl,DeepL,423,2026-08-27T11:50:29.908945+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/synthesia,Synthesia,440,2026-08-27T11:50:29.908948+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/elevenlabs,ElevenLabs,457,2026-08-27T11:50:29.908952+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/harvey-ai,Harvey AI,474,2026-08-27T11:50:29.908956+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/abridge,Abridge,491,2026-08-27T11:50:29.908960+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/hippocratic-ai,Hippocratic AI,508,2026-08-27T11:50:29.908966+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/glean,Glean,525,2026-08-27T11:50:29.908970+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/codiumai,CodiumAI,542,2026-08-27T11:50:29.908974+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/cursor,Cursor,559,2026-08-27T11:50:29.908977+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/replit,Replit,576,2026-08-27T11:50:29.908981+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/poolside-ai,Poolside AI,593,2026-08-27T11:50:29.908985+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/cognition-ai,Cognition AI,610,2026-08-27T11:50:29.908988+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/groq,Groq,627,2026-08-27T11:50:29.908992+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/cerebras,Cerebras,644,2026-08-27T11:50:29.908996+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/sambanova,SambaNova,661,2026-08-27T11:50:29.909000+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/fireworks-ai,Fireworks AI,678,2026-08-27T11:50:29.909003+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/baseten,Baseten,695,2026-08-27T11:50:29.909007+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/modal,Modal,712,2026-08-27T11:50:29.909013+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/replicate,Replicate,729,2026-08-27T11:50:29.909017+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/fal.ai,Fal.ai,746,2026-08-27T11:50:29.909021+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/vellum,Vellum,763,2026-08-27T11:50:29.909024+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/arize-ai,Arize AI,780,2026-08-27T11:50:29.909028+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/honeyhive,HoneyHive,797,2026-08-27T11:50:29.909032+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/portkey-ai,Portkey AI,814,2026-08-27T11:50:29.909035+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/agentops,AgentOps,831,2026-08-27T11:50:29.909039+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/deepgram,Deepgram,848,2026-08-27T11:50:29.909044+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://www.ycombinator.com/companies/assemblyai,AssemblyAI,15,2026-08-27T11:50:29.909048+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-1,Nexus 1,18,2026-08-27T11:50:29.909055+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-2,Nexus Computer 2,31,2026-08-27T11:50:29.909060+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-3,Nexus 3,44,2026-08-27T11:50:29.909066+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-4,Nexus Code 4,57,2026-08-27T11:50:29.909071+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-5,Nexus Vector 5,70,2026-08-27T11:50:29.909075+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-6,Nexus Robotics 6,83,2026-08-27T11:50:29.909079+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-7,Nexus 7,96,2026-08-27T11:50:29.909083+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-8,Nexus Audio 8,109,2026-08-27T11:50:29.909087+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-9,Nexus Generative 9,122,2026-08-27T11:50:29.909093+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-10,Nexus Llm 10,135,2026-08-27T11:50:29.909097+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-11,Nexus 11,148,2026-08-27T11:50:29.909101+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-12,Nexus Computer 12,161,2026-08-27T11:50:29.909105+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-13,Nexus 13,174,2026-08-27T11:50:29.909109+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-14,Nexus Code 14,187,2026-08-27T11:50:29.909115+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-15,Nexus Vector 15,200,2026-08-27T11:50:29.909119+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-16,Nexus Robotics 16,213,2026-08-27T11:50:29.909123+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-17,Nexus 17,226,2026-08-27T11:50:29.909126+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-18,Nexus Audio 18,239,2026-08-27T11:50:29.909130+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-19,Nexus Generative 19,252,2026-08-27T11:50:29.909134+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-20,Nexus Llm 20,265,2026-08-27T11:50:29.909139+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-21,Nexus 21,278,2026-08-27T11:50:29.909143+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-22,Nexus Computer 22,291,2026-08-27T11:50:29.909147+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-23,Nexus 23,304,2026-08-27T11:50:29.909150+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-24,Nexus Code 24,317,2026-08-27T11:50:29.909154+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-25,Nexus Vector 25,330,2026-08-27T11:50:29.909158+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-26,Nexus Robotics 26,343,2026-08-27T11:50:29.909162+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-27,Nexus 27,356,2026-08-27T11:50:29.909166+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-28,Nexus Audio 28,369,2026-08-27T11:50:29.909170+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-29,Nexus Generative 29,382,2026-08-27T11:50:29.909174+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-30,Nexus Llm 30,395,2026-08-27T11:50:29.909178+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-31,Nexus 31,408,2026-08-27T11:50:29.909182+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-32,Nexus Computer 32,421,2026-08-27T11:50:29.909185+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-33,Nexus 33,434,2026-08-27T11:50:29.909189+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-34,Nexus Code 34,447,2026-08-27T11:50:29.909192+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-35,Nexus Vector 35,10,2026-08-27T11:50:29.909196+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-36,Nexus Robotics 36,23,2026-08-27T11:50:29.909200+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-37,Nexus 37,36,2026-08-27T11:50:29.909203+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-38,Nexus Audio 38,49,2026-08-27T11:50:29.909207+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-39,Nexus Generative 39,62,2026-08-27T11:50:29.909211+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-40,Nexus Llm 40,75,2026-08-27T11:50:29.909214+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-41,Nexus 41,88,2026-08-27T11:50:29.909220+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-42,Nexus Computer 42,101,2026-08-27T11:50:29.909224+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-43,Nexus 43,114,2026-08-27T11:50:29.909227+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-44,Nexus Code 44,127,2026-08-27T11:50:29.909231+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-45,Nexus Vector 45,140,2026-08-27T11:50:29.909235+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-46,Nexus Robotics 46,153,2026-08-27T11:50:29.909239+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-47,Nexus 47,166,2026-08-27T11:50:29.909242+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-48,Nexus Audio 48,179,2026-08-27T11:50:29.909246+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-49,Nexus Generative 49,192,2026-08-27T11:50:29.909250+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-50,Nexus Llm 50,205,2026-08-27T11:50:29.909253+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-51,Nexus 51,218,2026-08-27T11:50:29.909257+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-52,Nexus Computer 52,231,2026-08-27T11:50:29.909260+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-53,Nexus 53,244,2026-08-27T11:50:29.909264+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-54,Nexus Code 54,257,2026-08-27T11:50:29.909268+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-55,Nexus Vector 55,270,2026-08-27T11:50:29.909271+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-56,Nexus Robotics 56,283,2026-08-27T11:50:29.909275+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-57,Nexus 57,296,2026-08-27T11:50:29.909279+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-58,Nexus Audio 58,309,2026-08-27T11:50:29.909283+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-59,Nexus Generative 59,322,2026-08-27T11:50:29.909286+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-60,Nexus Llm 60,335,2026-08-27T11:50:29.909290+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-61,Nexus 61,348,2026-08-27T11:50:29.909295+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-62,Nexus Computer 62,361,2026-08-27T11:50:29.909298+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-63,Nexus 63,374,2026-08-27T11:50:29.909302+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-64,Nexus Code 64,387,2026-08-27T11:50:29.909306+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-65,Nexus Vector 65,400,2026-08-27T11:50:29.909310+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-66,Nexus Robotics 66,413,2026-08-27T11:50:29.909313+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-67,Nexus 67,426,2026-08-27T11:50:29.909317+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-68,Nexus Audio 68,439,2026-08-27T11:50:29.909321+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-69,Nexus Generative 69,452,2026-08-27T11:50:29.909324+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-70,Nexus Llm 70,15,2026-08-27T11:50:29.909328+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-71,Nexus 71,28,2026-08-27T11:50:29.909334+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-72,Nexus Computer 72,41,2026-08-27T11:50:29.909340+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-73,Nexus 73,54,2026-08-27T11:50:29.909344+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-74,Nexus Code 74,67,2026-08-27T11:50:29.909348+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-75,Nexus Vector 75,80,2026-08-27T11:50:29.909352+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-76,Nexus Robotics 76,93,2026-08-27T11:50:29.909355+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-77,Nexus 77,106,2026-08-27T11:50:29.909361+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-78,Nexus Audio 78,119,2026-08-27T11:50:29.909365+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-79,Nexus Generative 79,132,2026-08-27T11:50:29.909369+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-80,Nexus Llm 80,145,2026-08-27T11:50:29.909373+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-81,Nexus 81,158,2026-08-27T11:50:29.909377+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-82,Nexus Computer 82,171,2026-08-27T11:50:29.909380+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-83,Nexus 83,184,2026-08-27T11:50:29.909384+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-84,Nexus Code 84,197,2026-08-27T11:50:29.909388+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-85,Nexus Vector 85,210,2026-08-27T11:50:29.909391+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-86,Nexus Robotics 86,223,2026-08-27T11:50:29.909397+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-87,Nexus 87,236,2026-08-27T11:50:29.909402+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-88,Nexus Audio 88,249,2026-08-27T11:50:29.909406+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-89,Nexus Generative 89,262,2026-08-27T11:50:29.909410+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-90,Nexus Llm 90,275,2026-08-27T11:50:29.909414+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-91,Nexus 91,288,2026-08-27T11:50:29.909418+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-92,Nexus Computer 92,301,2026-08-27T11:50:29.909422+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-93,Nexus 93,314,2026-08-27T11:50:29.909426+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-94,Nexus Code 94,327,2026-08-27T11:50:29.909429+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-95,Nexus Vector 95,340,2026-08-27T11:50:29.909433+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-96,Nexus Robotics 96,353,2026-08-27T11:50:29.909437+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-97,Nexus 97,366,2026-08-27T11:50:29.909441+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-98,Nexus Audio 98,379,2026-08-27T11:50:29.909445+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-99,Nexus Generative 99,392,2026-08-27T11:50:29.909448+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-100,Nexus Llm 100,405,2026-08-27T11:50:29.909452+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-101,Nexus 101,418,2026-08-27T11:50:29.909456+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-102,Nexus Computer 102,431,2026-08-27T11:50:29.909460+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-103,Nexus 103,444,2026-08-27T11:50:29.909466+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-104,Nexus Code 104,7,2026-08-27T11:50:29.909470+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-105,Nexus Vector 105,20,2026-08-27T11:50:29.909474+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-106,Nexus Robotics 106,33,2026-08-27T11:50:29.909477+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-107,Nexus 107,46,2026-08-27T11:50:29.909481+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-108,Nexus Audio 108,59,2026-08-27T11:50:29.909485+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-109,Nexus Generative 109,72,2026-08-27T11:50:29.909489+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-110,Nexus Llm 110,85,2026-08-27T11:50:29.909492+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-111,Nexus 111,98,2026-08-27T11:50:29.909496+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-112,Nexus Computer 112,111,2026-08-27T11:50:29.909500+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-113,Nexus 113,124,2026-08-27T11:50:29.909503+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-114,Nexus Code 114,137,2026-08-27T11:50:29.909507+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-115,Nexus Vector 115,150,2026-08-27T11:50:29.909511+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-116,Nexus Robotics 116,163,2026-08-27T11:50:29.909514+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-117,Nexus 117,176,2026-08-27T11:50:29.909518+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-118,Nexus Audio 118,189,2026-08-27T11:50:29.909521+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-119,Nexus Generative 119,202,2026-08-27T11:50:29.909525+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-120,Nexus Llm 120,215,2026-08-27T11:50:29.909528+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-121,Nexus 121,228,2026-08-27T11:50:29.909532+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-122,Nexus Computer 122,241,2026-08-27T11:50:29.909536+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-123,Nexus 123,254,2026-08-27T11:50:29.909539+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-124,Nexus Code 124,267,2026-08-27T11:50:29.909543+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-125,Nexus Vector 125,280,2026-08-27T11:50:29.909547+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-126,Nexus Robotics 126,293,2026-08-27T11:50:29.909551+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-127,Nexus 127,306,2026-08-27T11:50:29.909555+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-128,Nexus Audio 128,319,2026-08-27T11:50:29.909558+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-129,Nexus Generative 129,332,2026-08-27T11:50:29.909562+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-130,Nexus Llm 130,345,2026-08-27T11:50:29.909566+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-131,Nexus 131,358,2026-08-27T11:50:29.909569+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-132,Nexus Computer 132,371,2026-08-27T11:50:29.909573+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-133,Nexus 133,384,2026-08-27T11:50:29.909577+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-134,Nexus Code 134,397,2026-08-27T11:50:29.909583+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-135,Nexus Vector 135,410,2026-08-27T11:50:29.909587+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-136,Nexus Robotics 136,423,2026-08-27T11:50:29.909591+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-137,Nexus 137,436,2026-08-27T11:50:29.909594+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-138,Nexus Audio 138,449,2026-08-27T11:50:29.909598+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-139,Nexus Generative 139,12,2026-08-27T11:50:29.909603+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-140,Nexus Llm 140,25,2026-08-27T11:50:29.909607+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-141,Nexus 141,38,2026-08-27T11:50:29.909611+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-142,Nexus Computer 142,51,2026-08-27T11:50:29.909615+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-143,Nexus 143,64,2026-08-27T11:50:29.909619+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-144,Nexus Code 144,77,2026-08-27T11:50:29.909622+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-145,Nexus Vector 145,90,2026-08-27T11:50:29.909626+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-146,Nexus Robotics 146,103,2026-08-27T11:50:29.909630+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-147,Nexus 147,116,2026-08-27T11:50:29.909633+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-148,Nexus Audio 148,129,2026-08-27T11:50:29.909637+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-149,Nexus Generative 149,142,2026-08-27T11:50:29.909640+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-150,Nexus Llm 150,155,2026-08-27T11:50:29.909644+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-151,Nexus 151,168,2026-08-27T11:50:29.909648+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-152,Nexus Computer 152,181,2026-08-27T11:50:29.909651+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-153,Nexus 153,194,2026-08-27T11:50:29.909655+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-154,Nexus Code 154,207,2026-08-27T11:50:29.909659+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-155,Nexus Vector 155,220,2026-08-27T11:50:29.909664+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-156,Nexus Robotics 156,233,2026-08-27T11:50:29.909668+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-157,Nexus 157,246,2026-08-27T11:50:29.909672+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-158,Nexus Audio 158,259,2026-08-27T11:50:29.909678+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-159,Nexus Generative 159,272,2026-08-27T11:50:29.909682+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-160,Nexus Llm 160,285,2026-08-27T11:50:29.909685+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-161,Nexus 161,298,2026-08-27T11:50:29.909689+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-162,Nexus Computer 162,311,2026-08-27T11:50:29.909693+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-163,Nexus 163,324,2026-08-27T11:50:29.909696+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-164,Nexus Code 164,337,2026-08-27T11:50:29.909700+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-165,Nexus Vector 165,350,2026-08-27T11:50:29.909705+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-166,Nexus Robotics 166,363,2026-08-27T11:50:29.909709+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-167,Nexus 167,376,2026-08-27T11:50:29.909713+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-168,Nexus Audio 168,389,2026-08-27T11:50:29.909717+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-169,Nexus Generative 169,402,2026-08-27T11:50:29.909720+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-170,Nexus Llm 170,415,2026-08-27T11:50:29.909724+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-171,Nexus 171,428,2026-08-27T11:50:29.909728+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-172,Nexus Computer 172,441,2026-08-27T11:50:29.909731+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-173,Nexus 173,454,2026-08-27T11:50:29.909735+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-174,Nexus Code 174,17,2026-08-27T11:50:29.909738+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-175,Nexus Vector 175,30,2026-08-27T11:50:29.909742+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-176,Nexus Robotics 176,43,2026-08-27T11:50:29.909746+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-177,Nexus 177,56,2026-08-27T11:50:29.909751+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-178,Nexus Audio 178,69,2026-08-27T11:50:29.909755+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-179,Nexus Generative 179,82,2026-08-27T11:50:29.909759+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-180,Nexus Llm 180,95,2026-08-27T11:50:29.909763+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-181,Nexus 181,108,2026-08-27T11:50:29.909766+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-182,Nexus Computer 182,121,2026-08-27T11:50:29.909770+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-183,Nexus 183,134,2026-08-27T11:50:29.909774+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-184,Nexus Code 184,147,2026-08-27T11:50:29.909778+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-185,Nexus Vector 185,160,2026-08-27T11:50:29.909781+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-186,Nexus Robotics 186,173,2026-08-27T11:50:29.909785+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-187,Nexus 187,186,2026-08-27T11:50:29.909789+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-188,Nexus Audio 188,199,2026-08-27T11:50:29.909792+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-189,Nexus Generative 189,212,2026-08-27T11:50:29.909796+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-190,Nexus Llm 190,225,2026-08-27T11:50:29.909799+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-191,Nexus 191,238,2026-08-27T11:50:29.909803+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-192,Nexus Computer 192,251,2026-08-27T11:50:29.909806+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-193,Nexus 193,264,2026-08-27T11:50:29.909810+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-194,Nexus Code 194,277,2026-08-27T11:50:29.909814+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-195,Nexus Vector 195,290,2026-08-27T11:50:29.909817+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-196,Nexus Robotics 196,303,2026-08-27T11:50:29.909823+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-197,Nexus 197,316,2026-08-27T11:50:29.909827+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-198,Nexus Audio 198,329,2026-08-27T11:50:29.909830+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-199,Nexus Generative 199,342,2026-08-27T11:50:29.909834+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-200,Nexus Llm 200,355,2026-08-27T11:50:29.909837+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-201,Nexus 201,368,2026-08-27T11:50:29.909841+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-202,Nexus Computer 202,381,2026-08-27T11:50:29.909845+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-203,Nexus 203,394,2026-08-27T11:50:29.909848+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-204,Nexus Code 204,407,2026-08-27T11:50:29.909852+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-205,Nexus Vector 205,420,2026-08-27T11:50:29.909855+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-206,Nexus Robotics 206,433,2026-08-27T11:50:29.909859+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-207,Nexus 207,446,2026-08-27T11:50:29.909864+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-208,Nexus Audio 208,9,2026-08-27T11:50:29.909869+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-209,Nexus Generative 209,22,2026-08-27T11:50:29.909873+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-210,Nexus Llm 210,35,2026-08-27T11:50:29.909877+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-211,Nexus 211,48,2026-08-27T11:50:29.909881+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-212,Nexus Computer 212,61,2026-08-27T11:50:29.909884+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-213,Nexus 213,74,2026-08-27T11:50:29.909888+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-214,Nexus Code 214,87,2026-08-27T11:50:29.909892+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-215,Nexus Vector 215,100,2026-08-27T11:50:29.909895+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-216,Nexus Robotics 216,113,2026-08-27T11:50:29.909899+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-217,Nexus 217,126,2026-08-27T11:50:29.909903+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-218,Nexus Audio 218,139,2026-08-27T11:50:29.909906+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-219,Nexus Generative 219,152,2026-08-27T11:50:29.909910+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-220,Nexus Llm 220,165,2026-08-27T11:50:29.909914+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-221,Nexus 221,178,2026-08-27T11:50:29.909918+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-222,Nexus Computer 222,191,2026-08-27T11:50:29.909922+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-223,Nexus 223,204,2026-08-27T11:50:29.909925+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-224,Nexus Code 224,217,2026-08-27T11:50:29.909929+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-225,Nexus Vector 225,230,2026-08-27T11:50:29.909933+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-226,Nexus Robotics 226,243,2026-08-27T11:50:29.909936+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-227,Nexus 227,256,2026-08-27T11:50:29.909942+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-228,Nexus Audio 228,269,2026-08-27T11:50:29.909946+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-229,Nexus Generative 229,282,2026-08-27T11:50:29.909949+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-230,Nexus Llm 230,295,2026-08-27T11:50:29.909955+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-231,Nexus 231,308,2026-08-27T11:50:29.909959+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-232,Nexus Computer 232,321,2026-08-27T11:50:29.909963+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-233,Nexus 233,334,2026-08-27T11:50:29.909968+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-234,Nexus Code 234,347,2026-08-27T11:50:29.909972+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-235,Nexus Vector 235,360,2026-08-27T11:50:29.909975+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-236,Nexus Robotics 236,373,2026-08-27T11:50:29.909979+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-237,Nexus 237,386,2026-08-27T11:50:29.909983+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-238,Nexus Audio 238,399,2026-08-27T11:50:29.909986+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-239,Nexus Generative 239,412,2026-08-27T11:50:29.909990+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-240,Nexus Llm 240,425,2026-08-27T11:50:29.909994+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-241,Nexus 241,438,2026-08-27T11:50:29.909997+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-242,Nexus Computer 242,451,2026-08-27T11:50:29.910001+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-243,Nexus 243,14,2026-08-27T11:50:29.910004+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-244,Nexus Code 244,27,2026-08-27T11:50:29.910008+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-245,Nexus Vector 245,40,2026-08-27T11:50:29.910012+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-246,Nexus Robotics 246,53,2026-08-27T11:50:29.910016+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-247,Nexus 247,66,2026-08-27T11:50:29.910019+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-248,Nexus Audio 248,79,2026-08-27T11:50:29.910023+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-249,Nexus Generative 249,92,2026-08-27T11:50:29.910027+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-250,Nexus Llm 250,105,2026-08-27T11:50:29.910030+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-251,Nexus 251,118,2026-08-27T11:50:29.910034+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-252,Nexus Computer 252,131,2026-08-27T11:50:29.910037+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-253,Nexus 253,144,2026-08-27T11:50:29.910041+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-254,Nexus Code 254,157,2026-08-27T11:50:29.910044+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-255,Nexus Vector 255,170,2026-08-27T11:50:29.910048+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-256,Nexus Robotics 256,183,2026-08-27T11:50:29.910051+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-257,Nexus 257,196,2026-08-27T11:50:29.910055+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-258,Nexus Audio 258,209,2026-08-27T11:50:29.910061+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-259,Nexus Generative 259,222,2026-08-27T11:50:29.910065+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-260,Nexus Llm 260,235,2026-08-27T11:50:29.910069+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-261,Nexus 261,248,2026-08-27T11:50:29.910073+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-262,Nexus Computer 262,261,2026-08-27T11:50:29.910077+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-263,Nexus 263,274,2026-08-27T11:50:29.910081+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-264,Nexus Code 264,287,2026-08-27T11:50:29.910085+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-265,Nexus Vector 265,300,2026-08-27T11:50:29.910090+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-266,Nexus Robotics 266,313,2026-08-27T11:50:29.910094+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-267,Nexus 267,326,2026-08-27T11:50:29.910098+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-268,Nexus Audio 268,339,2026-08-27T11:50:29.910101+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-269,Nexus Generative 269,352,2026-08-27T11:50:29.910105+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-270,Nexus Llm 270,365,2026-08-27T11:50:29.910109+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-271,Nexus 271,378,2026-08-27T11:50:29.910112+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-272,Nexus Computer 272,391,2026-08-27T11:50:29.910116+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-273,Nexus 273,404,2026-08-27T11:50:29.910120+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-274,Nexus Code 274,417,2026-08-27T11:50:29.910123+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-275,Nexus Vector 275,430,2026-08-27T11:50:29.910129+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-276,Nexus Robotics 276,443,2026-08-27T11:50:29.910133+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-277,Nexus 277,6,2026-08-27T11:50:29.910137+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-278,Nexus Audio 278,19,2026-08-27T11:50:29.910141+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-279,Nexus Generative 279,32,2026-08-27T11:50:29.910145+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-280,Nexus Llm 280,45,2026-08-27T11:50:29.910148+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-281,Nexus 281,58,2026-08-27T11:50:29.910152+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-282,Nexus Computer 282,71,2026-08-27T11:50:29.910156+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-283,Nexus 283,84,2026-08-27T11:50:29.910160+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-284,Nexus Code 284,97,2026-08-27T11:50:29.910163+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-285,Nexus Vector 285,110,2026-08-27T11:50:29.910167+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-286,Nexus Robotics 286,123,2026-08-27T11:50:29.910171+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-287,Nexus 287,136,2026-08-27T11:50:29.910174+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-288,Nexus Audio 288,149,2026-08-27T11:50:29.910178+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-289,Nexus Generative 289,162,2026-08-27T11:50:29.910184+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-290,Nexus Llm 290,175,2026-08-27T11:50:29.910187+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-291,Nexus 291,188,2026-08-27T11:50:29.910191+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-292,Nexus Computer 292,201,2026-08-27T11:50:29.910195+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-293,Nexus 293,214,2026-08-27T11:50:29.910199+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-294,Nexus Code 294,227,2026-08-27T11:50:29.910203+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-295,Nexus Vector 295,240,2026-08-27T11:50:29.910206+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-296,Nexus Robotics 296,253,2026-08-27T11:50:29.910210+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-297,Nexus 297,266,2026-08-27T11:50:29.910213+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-298,Nexus Audio 298,279,2026-08-27T11:50:29.910217+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-299,Nexus Generative 299,292,2026-08-27T11:50:29.910221+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-300,Nexus Llm 300,305,2026-08-27T11:50:29.910225+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-301,Nexus 301,318,2026-08-27T11:50:29.910228+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-302,Nexus Computer 302,331,2026-08-27T11:50:29.910234+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-303,Nexus 303,344,2026-08-27T11:50:29.910238+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-304,Nexus Code 304,357,2026-08-27T11:50:29.910242+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-305,Nexus Vector 305,370,2026-08-27T11:50:29.910246+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-306,Nexus Robotics 306,383,2026-08-27T11:50:29.910250+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-307,Nexus 307,396,2026-08-27T11:50:29.910253+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-308,Nexus Audio 308,409,2026-08-27T11:50:29.910257+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-309,Nexus Generative 309,422,2026-08-27T11:50:29.910260+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-310,Nexus Llm 310,435,2026-08-27T11:50:29.910264+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-311,Nexus 311,448,2026-08-27T11:50:29.910331+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-312,Nexus Computer 312,11,2026-08-27T11:50:29.910336+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-313,Nexus 313,24,2026-08-27T11:50:29.910340+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-314,Nexus Code 314,37,2026-08-27T11:50:29.910343+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-315,Nexus Vector 315,50,2026-08-27T11:50:29.910347+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-316,Nexus Robotics 316,63,2026-08-27T11:50:29.910351+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-317,Nexus 317,76,2026-08-27T11:50:29.910354+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-318,Nexus Audio 318,89,2026-08-27T11:50:29.910358+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-319,Nexus Generative 319,102,2026-08-27T11:50:29.910362+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-320,Nexus Llm 320,115,2026-08-27T11:50:29.910367+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-321,Nexus 321,128,2026-08-27T11:50:29.910371+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-322,Nexus Computer 322,141,2026-08-27T11:50:29.910374+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-323,Nexus 323,154,2026-08-27T11:50:29.910378+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-324,Nexus Code 324,167,2026-08-27T11:50:29.910382+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-325,Nexus Vector 325,180,2026-08-27T11:50:29.910385+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-326,Nexus Robotics 326,193,2026-08-27T11:50:29.910389+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-327,Nexus 327,206,2026-08-27T11:50:29.910393+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-328,Nexus Audio 328,219,2026-08-27T11:50:29.910396+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-329,Nexus Generative 329,232,2026-08-27T11:50:29.910400+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-330,Nexus Llm 330,245,2026-08-27T11:50:29.910403+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-331,Nexus 331,258,2026-08-27T11:50:29.910407+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-332,Nexus Computer 332,271,2026-08-27T11:50:29.910411+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-333,Nexus 333,284,2026-08-27T11:50:29.910415+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-334,Nexus Code 334,297,2026-08-27T11:50:29.910418+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-335,Nexus Vector 335,310,2026-08-27T11:50:29.910422+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-336,Nexus Robotics 336,323,2026-08-27T11:50:29.910426+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-337,Nexus 337,336,2026-08-27T11:50:29.910429+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-338,Nexus Audio 338,349,2026-08-27T11:50:29.910433+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-339,Nexus Generative 339,362,2026-08-27T11:50:29.910436+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-340,Nexus Llm 340,375,2026-08-27T11:50:29.910440+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-341,Nexus 341,388,2026-08-27T11:50:29.910444+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-342,Nexus Computer 342,401,2026-08-27T11:50:29.910447+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-343,Nexus 343,414,2026-08-27T11:50:29.910453+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-344,Nexus Code 344,427,2026-08-27T11:50:29.910457+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-345,Nexus Vector 345,440,2026-08-27T11:50:29.910461+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-346,Nexus Robotics 346,453,2026-08-27T11:50:29.910464+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-347,Nexus 347,16,2026-08-27T11:50:29.910468+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-348,Nexus Audio 348,29,2026-08-27T11:50:29.910472+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-349,Nexus Generative 349,42,2026-08-27T11:50:29.910476+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-350,Nexus Llm 350,55,2026-08-27T11:50:29.910479+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-351,Nexus 351,68,2026-08-27T11:50:29.910485+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-352,Nexus Computer 352,81,2026-08-27T11:50:29.910489+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-353,Nexus 353,94,2026-08-27T11:50:29.910492+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-354,Nexus Code 354,107,2026-08-27T11:50:29.910496+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-355,Nexus Vector 355,120,2026-08-27T11:50:29.910499+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-356,Nexus Robotics 356,133,2026-08-27T11:50:29.910504+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-357,Nexus 357,146,2026-08-27T11:50:29.910508+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-358,Nexus Audio 358,159,2026-08-27T11:50:29.910512+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-359,Nexus Generative 359,172,2026-08-27T11:50:29.910516+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-360,Nexus Llm 360,185,2026-08-27T11:50:29.910519+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-361,Nexus 361,198,2026-08-27T11:50:29.910523+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-362,Nexus Computer 362,211,2026-08-27T11:50:29.910526+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-363,Nexus 363,224,2026-08-27T11:50:29.910530+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-364,Nexus Code 364,237,2026-08-27T11:50:29.910534+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-365,Nexus Vector 365,250,2026-08-27T11:50:29.910538+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-366,Nexus Robotics 366,263,2026-08-27T11:50:29.910541+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-367,Nexus 367,276,2026-08-27T11:50:29.910545+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-368,Nexus Audio 368,289,2026-08-27T11:50:29.910548+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-369,Nexus Generative 369,302,2026-08-27T11:50:29.910552+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-370,Nexus Llm 370,315,2026-08-27T11:50:29.910556+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-371,Nexus 371,328,2026-08-27T11:50:29.910559+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-372,Nexus Computer 372,341,2026-08-27T11:50:29.910563+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-373,Nexus 373,354,2026-08-27T11:50:29.910566+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-374,Nexus Code 374,367,2026-08-27T11:50:29.910572+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-375,Nexus Vector 375,380,2026-08-27T11:50:29.910575+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-376,Nexus Robotics 376,393,2026-08-27T11:50:29.910579+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-377,Nexus 377,406,2026-08-27T11:50:29.910583+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-378,Nexus Audio 378,419,2026-08-27T11:50:29.910587+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-379,Nexus Generative 379,432,2026-08-27T11:50:29.910591+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-380,Nexus Llm 380,445,2026-08-27T11:50:29.910594+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-381,Nexus 381,8,2026-08-27T11:50:29.910598+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-382,Nexus Computer 382,21,2026-08-27T11:50:29.910607+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-383,Nexus 383,34,2026-08-27T11:50:29.910611+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-384,Nexus Code 384,47,2026-08-27T11:50:29.910615+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-385,Nexus Vector 385,60,2026-08-27T11:50:29.910619+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-386,Nexus Robotics 386,73,2026-08-27T11:50:29.910622+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-387,Nexus 387,86,2026-08-27T11:50:29.910626+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-388,Nexus Audio 388,99,2026-08-27T11:50:29.910630+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-389,Nexus Generative 389,112,2026-08-27T11:50:29.910635+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-390,Nexus Llm 390,125,2026-08-27T11:50:29.910639+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-391,Nexus 391,138,2026-08-27T11:50:29.910643+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-392,Nexus Computer 392,151,2026-08-27T11:50:29.910647+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-393,Nexus 393,164,2026-08-27T11:50:29.910708+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-394,Nexus Code 394,177,2026-08-27T11:50:29.910717+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-395,Nexus Vector 395,190,2026-08-27T11:50:29.910722+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-396,Nexus Robotics 396,203,2026-08-27T11:50:29.910727+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-397,Nexus 397,216,2026-08-27T11:50:29.910731+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-398,Nexus Audio 398,229,2026-08-27T11:50:29.910735+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-399,Nexus Generative 399,242,2026-08-27T11:50:29.910739+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-400,Nexus Llm 400,255,2026-08-27T11:50:29.910743+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-401,Nexus 401,268,2026-08-27T11:50:29.910748+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-402,Nexus Computer 402,281,2026-08-27T11:50:29.910752+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-403,Nexus 403,294,2026-08-27T11:50:29.910756+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-404,Nexus Code 404,307,2026-08-27T11:50:29.910760+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-405,Nexus Vector 405,320,2026-08-27T11:50:29.911038+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-406,Nexus Robotics 406,333,2026-08-27T11:50:29.911044+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-407,Nexus 407,346,2026-08-27T11:50:29.911049+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-408,Nexus Audio 408,359,2026-08-27T11:50:29.911054+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-409,Nexus Generative 409,372,2026-08-27T11:50:29.911058+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-410,Nexus Llm 410,385,2026-08-27T11:50:29.911062+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-411,Nexus 411,398,2026-08-27T11:50:29.911066+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-412,Nexus Computer 412,411,2026-08-27T11:50:29.911070+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-413,Nexus 413,424,2026-08-27T11:50:29.911080+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-414,Nexus Code 414,437,2026-08-27T11:50:29.911084+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-415,Nexus Vector 415,450,2026-08-27T11:50:29.911088+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-416,Nexus Robotics 416,13,2026-08-27T11:50:29.911092+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-417,Nexus 417,26,2026-08-27T11:50:29.911096+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-418,Nexus Audio 418,39,2026-08-27T11:50:29.911100+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-419,Nexus Generative 419,52,2026-08-27T11:50:29.911104+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-420,Nexus Llm 420,65,2026-08-27T11:50:29.911108+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-421,Nexus 421,78,2026-08-27T11:50:29.911112+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-422,Nexus Computer 422,91,2026-08-27T11:50:29.911115+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-423,Nexus 423,104,2026-08-27T11:50:29.911121+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-424,Nexus Code 424,117,2026-08-27T11:50:29.911126+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-425,Nexus Vector 425,130,2026-08-27T11:50:29.911129+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-426,Nexus Robotics 426,143,2026-08-27T11:50:29.911133+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-427,Nexus 427,156,2026-08-27T11:50:29.911137+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-428,Nexus Audio 428,169,2026-08-27T11:50:29.911141+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-429,Nexus Generative 429,182,2026-08-27T11:50:29.911144+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-430,Nexus Llm 430,195,2026-08-27T11:50:29.911148+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-431,Nexus 431,208,2026-08-27T11:50:29.911152+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-432,Nexus Computer 432,221,2026-08-27T11:50:29.911156+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-433,Nexus 433,234,2026-08-27T11:50:29.911159+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-434,Nexus Code 434,247,2026-08-27T11:50:29.911163+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-435,Nexus Vector 435,260,2026-08-27T11:50:29.911167+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-436,Nexus Robotics 436,273,2026-08-27T11:50:29.911171+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-437,Nexus 437,286,2026-08-27T11:50:29.911175+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-438,Nexus Audio 438,299,2026-08-27T11:50:29.911179+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-439,Nexus Generative 439,312,2026-08-27T11:50:29.911183+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-440,Nexus Llm 440,325,2026-08-27T11:50:29.911187+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-441,Nexus 441,338,2026-08-27T11:50:29.911190+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-442,Nexus Computer 442,351,2026-08-27T11:50:29.911194+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-443,Nexus 443,364,2026-08-27T11:50:29.911198+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-444,Nexus Code 444,377,2026-08-27T11:50:29.911204+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-445,Nexus Vector 445,390,2026-08-27T11:50:29.911208+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-446,Nexus Robotics 446,403,2026-08-27T11:50:29.911212+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-447,Nexus 447,416,2026-08-27T11:50:29.911216+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-448,Nexus Audio 448,429,2026-08-27T11:50:29.911220+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-449,Nexus Generative 449,442,2026-08-27T11:50:29.911224+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-450,Nexus Llm 450,5,2026-08-27T11:50:29.911229+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-451,Nexus 451,18,2026-08-27T11:50:29.911233+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-452,Nexus Computer 452,31,2026-08-27T11:50:29.911237+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-453,Nexus 453,44,2026-08-27T11:50:29.911241+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-454,Nexus Code 454,57,2026-08-27T11:50:29.911245+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-455,Nexus Vector 455,70,2026-08-27T11:50:29.911249+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-456,Nexus Robotics 456,83,2026-08-27T11:50:29.911253+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-457,Nexus 457,96,2026-08-27T11:50:29.911257+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-458,Nexus Audio 458,109,2026-08-27T11:50:29.911260+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-459,Nexus Generative 459,122,2026-08-27T11:50:29.911264+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-460,Nexus Llm 460,135,2026-08-27T11:50:29.911268+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-461,Nexus 461,148,2026-08-27T11:50:29.911271+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-462,Nexus Computer 462,161,2026-08-27T11:50:29.911275+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-463,Nexus 463,174,2026-08-27T11:50:29.911279+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-464,Nexus Code 464,187,2026-08-27T11:50:29.911282+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-465,Nexus Vector 465,200,2026-08-27T11:50:29.911286+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-466,Nexus Robotics 466,213,2026-08-27T11:50:29.911290+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-467,Nexus 467,226,2026-08-27T11:50:29.911294+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-468,Nexus Audio 468,239,2026-08-27T11:50:29.911300+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-469,Nexus Generative 469,252,2026-08-27T11:50:29.911304+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-470,Nexus Llm 470,265,2026-08-27T11:50:29.911307+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-471,Nexus 471,278,2026-08-27T11:50:29.911311+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-472,Nexus Computer 472,291,2026-08-27T11:50:29.911316+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-473,Nexus 473,304,2026-08-27T11:50:29.911320+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-474,Nexus Code 474,317,2026-08-27T11:50:29.911324+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-475,Nexus Vector 475,330,2026-08-27T11:50:29.911329+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-476,Nexus Robotics 476,343,2026-08-27T11:50:29.911333+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-477,Nexus 477,356,2026-08-27T11:50:29.911337+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-478,Nexus Audio 478,369,2026-08-27T11:50:29.911341+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-479,Nexus Generative 479,382,2026-08-27T11:50:29.911345+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-480,Nexus Llm 480,395,2026-08-27T11:50:29.911348+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-481,Nexus 481,408,2026-08-27T11:50:29.911352+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-482,Nexus Computer 482,421,2026-08-27T11:50:29.911356+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-483,Nexus 483,434,2026-08-27T11:50:29.911359+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-484,Nexus Code 484,447,2026-08-27T11:50:29.911363+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-485,Nexus Vector 485,10,2026-08-27T11:50:29.911367+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-486,Nexus Robotics 486,23,2026-08-27T11:50:29.911371+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-487,Nexus 487,36,2026-08-27T11:50:29.911374+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-488,Nexus Audio 488,49,2026-08-27T11:50:29.911378+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-489,Nexus Generative 489,62,2026-08-27T11:50:29.911382+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-490,Nexus Llm 490,75,2026-08-27T11:50:29.911385+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-491,Nexus 491,88,2026-08-27T11:50:29.911391+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-492,Nexus Computer 492,101,2026-08-27T11:50:29.911395+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-493,Nexus 493,114,2026-08-27T11:50:29.911399+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-494,Nexus Code 494,127,2026-08-27T11:50:29.911402+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-495,Nexus Vector 495,140,2026-08-27T11:50:29.911406+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-496,Nexus Robotics 496,153,2026-08-27T11:50:29.911410+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-497,Nexus 497,166,2026-08-27T11:50:29.911413+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-498,Nexus Audio 498,179,2026-08-27T11:50:29.911417+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-499,Nexus Generative 499,192,2026-08-27T11:50:29.911421+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-500,Nexus Llm 500,205,2026-08-27T11:50:29.911425+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-501,Nexus 501,218,2026-08-27T11:50:29.911428+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-502,Nexus Computer 502,231,2026-08-27T11:50:29.911432+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-503,Nexus 503,244,2026-08-27T11:50:29.911436+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-504,Nexus Code 504,257,2026-08-27T11:50:29.911440+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-505,Nexus Vector 505,270,2026-08-27T11:50:29.911444+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-506,Nexus Robotics 506,283,2026-08-27T11:50:29.911449+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-507,Nexus 507,296,2026-08-27T11:50:29.911453+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-508,Nexus Audio 508,309,2026-08-27T11:50:29.911457+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-509,Nexus Generative 509,322,2026-08-27T11:50:29.911461+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-510,Nexus Llm 510,335,2026-08-27T11:50:29.911464+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-511,Nexus 511,348,2026-08-27T11:50:29.911468+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-512,Nexus Computer 512,361,2026-08-27T11:50:29.911472+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-513,Nexus 513,374,2026-08-27T11:50:29.911475+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-514,Nexus Code 514,387,2026-08-27T11:50:29.911479+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-515,Nexus Vector 515,400,2026-08-27T11:50:29.911483+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-516,Nexus Robotics 516,413,2026-08-27T11:50:29.911486+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-517,Nexus 517,426,2026-08-27T11:50:29.911490+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-518,Nexus Audio 518,439,2026-08-27T11:50:29.911494+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-519,Nexus Generative 519,452,2026-08-27T11:50:29.911497+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-520,Nexus Llm 520,15,2026-08-27T11:50:29.911501+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-521,Nexus 521,28,2026-08-27T11:50:29.911505+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-522,Nexus Computer 522,41,2026-08-27T11:50:29.911510+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-523,Nexus 523,54,2026-08-27T11:50:29.911514+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-524,Nexus Code 524,67,2026-08-27T11:50:29.911518+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-525,Nexus Vector 525,80,2026-08-27T11:50:29.911521+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-526,Nexus Robotics 526,93,2026-08-27T11:50:29.911525+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-527,Nexus 527,106,2026-08-27T11:50:29.911529+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-528,Nexus Audio 528,119,2026-08-27T11:50:29.911532+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-529,Nexus Generative 529,132,2026-08-27T11:50:29.911536+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-530,Nexus Llm 530,145,2026-08-27T11:50:29.911540+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-531,Nexus 531,158,2026-08-27T11:50:29.911544+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-532,Nexus Computer 532,171,2026-08-27T11:50:29.911547+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-533,Nexus 533,184,2026-08-27T11:50:29.911551+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-534,Nexus Code 534,197,2026-08-27T11:50:29.911555+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-535,Nexus Vector 535,210,2026-08-27T11:50:29.911558+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-536,Nexus Robotics 536,223,2026-08-27T11:50:29.911562+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-537,Nexus 537,236,2026-08-27T11:50:29.911568+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-538,Nexus Audio 538,249,2026-08-27T11:50:29.911572+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-539,Nexus Generative 539,262,2026-08-27T11:50:29.911575+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-540,Nexus Llm 540,275,2026-08-27T11:50:29.911579+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-541,Nexus 541,288,2026-08-27T11:50:29.911583+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-542,Nexus Computer 542,301,2026-08-27T11:50:29.911587+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-543,Nexus 543,314,2026-08-27T11:50:29.911590+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-544,Nexus Code 544,327,2026-08-27T11:50:29.911594+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-545,Nexus Vector 545,340,2026-08-27T11:50:29.911598+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-546,Nexus Robotics 546,353,2026-08-27T11:50:29.911608+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-547,Nexus 547,366,2026-08-27T11:50:29.911612+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-548,Nexus Audio 548,379,2026-08-27T11:50:29.911616+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-549,Nexus Generative 549,392,2026-08-27T11:50:29.911620+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-550,Nexus Llm 550,405,2026-08-27T11:50:29.911623+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-551,Nexus 551,418,2026-08-27T11:50:29.911627+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-552,Nexus Computer 552,431,2026-08-27T11:50:29.911631+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-553,Nexus 553,444,2026-08-27T11:50:29.911634+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-554,Nexus Code 554,7,2026-08-27T11:50:29.911638+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-555,Nexus Vector 555,20,2026-08-27T11:50:29.911642+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-556,Nexus Robotics 556,33,2026-08-27T11:50:29.911646+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-557,Nexus 557,46,2026-08-27T11:50:29.911649+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-558,Nexus Audio 558,59,2026-08-27T11:50:29.911653+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-559,Nexus Generative 559,72,2026-08-27T11:50:29.911659+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-560,Nexus Llm 560,85,2026-08-27T11:50:29.911663+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-561,Nexus 561,98,2026-08-27T11:50:29.911667+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-562,Nexus Computer 562,111,2026-08-27T11:50:29.911670+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-563,Nexus 563,124,2026-08-27T11:50:29.911674+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-564,Nexus Code 564,137,2026-08-27T11:50:29.911678+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-565,Nexus Vector 565,150,2026-08-27T11:50:29.911682+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-566,Nexus Robotics 566,163,2026-08-27T11:50:29.911685+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-567,Nexus 567,176,2026-08-27T11:50:29.911689+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-568,Nexus Audio 568,189,2026-08-27T11:50:29.911695+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-569,Nexus Generative 569,202,2026-08-27T11:50:29.911698+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-570,Nexus Llm 570,215,2026-08-27T11:50:29.911702+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-571,Nexus 571,228,2026-08-27T11:50:29.911706+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-572,Nexus Computer 572,241,2026-08-27T11:50:29.911709+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-573,Nexus 573,254,2026-08-27T11:50:29.911713+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-574,Nexus Code 574,267,2026-08-27T11:50:29.911717+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-575,Nexus Vector 575,280,2026-08-27T11:50:29.911721+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-576,Nexus Robotics 576,293,2026-08-27T11:50:29.911725+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-577,Nexus 577,306,2026-08-27T11:50:29.911729+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-578,Nexus Audio 578,319,2026-08-27T11:50:29.911732+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-579,Nexus Generative 579,332,2026-08-27T11:50:29.911736+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-580,Nexus Llm 580,345,2026-08-27T11:50:29.911740+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-581,Nexus 581,358,2026-08-27T11:50:29.911744+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-582,Nexus Computer 582,371,2026-08-27T11:50:29.911747+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-583,Nexus 583,384,2026-08-27T11:50:29.911751+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-584,Nexus Code 584,397,2026-08-27T11:50:29.911754+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-585,Nexus Vector 585,410,2026-08-27T11:50:29.911758+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-586,Nexus Robotics 586,423,2026-08-27T11:50:29.911762+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-587,Nexus 587,436,2026-08-27T11:50:29.911765+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-588,Nexus Audio 588,449,2026-08-27T11:50:29.911769+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-589,Nexus Generative 589,12,2026-08-27T11:50:29.911773+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-590,Nexus Llm 590,25,2026-08-27T11:50:29.911777+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-591,Nexus 591,38,2026-08-27T11:50:29.911780+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-592,Nexus Computer 592,51,2026-08-27T11:50:29.911784+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-593,Nexus 593,64,2026-08-27T11:50:29.911788+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-594,Nexus Code 594,77,2026-08-27T11:50:29.911793+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-595,Nexus Vector 595,90,2026-08-27T11:50:29.911797+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-596,Nexus Robotics 596,103,2026-08-27T11:50:29.911801+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-597,Nexus 597,116,2026-08-27T11:50:29.911805+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-598,Nexus Audio 598,129,2026-08-27T11:50:29.911808+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-599,Nexus Generative 599,142,2026-08-27T11:50:29.911814+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-600,Nexus Llm 600,155,2026-08-27T11:50:29.911818+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-601,Nexus 601,168,2026-08-27T11:50:29.911821+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-602,Nexus Computer 602,181,2026-08-27T11:50:29.911825+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-603,Nexus 603,194,2026-08-27T11:50:29.911828+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-604,Nexus Code 604,207,2026-08-27T11:50:29.911832+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-605,Nexus Vector 605,220,2026-08-27T11:50:29.911836+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-606,Nexus Robotics 606,233,2026-08-27T11:50:29.911839+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-607,Nexus 607,246,2026-08-27T11:50:29.911843+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-608,Nexus Audio 608,259,2026-08-27T11:50:29.911847+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-609,Nexus Generative 609,272,2026-08-27T11:50:29.911851+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-610,Nexus Llm 610,285,2026-08-27T11:50:29.911854+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-611,Nexus 611,298,2026-08-27T11:50:29.911858+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-612,Nexus Computer 612,311,2026-08-27T11:50:29.911862+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-613,Nexus 613,324,2026-08-27T11:50:29.911866+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-614,Nexus Code 614,337,2026-08-27T11:50:29.911869+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-615,Nexus Vector 615,350,2026-08-27T11:50:29.911873+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-616,Nexus Robotics 616,363,2026-08-27T11:50:29.911877+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-617,Nexus 617,376,2026-08-27T11:50:29.911881+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-618,Nexus Audio 618,389,2026-08-27T11:50:29.911884+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-619,Nexus Generative 619,402,2026-08-27T11:50:29.911888+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-620,Nexus Llm 620,415,2026-08-27T11:50:29.911892+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-621,Nexus 621,428,2026-08-27T11:50:29.911895+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-622,Nexus Computer 622,441,2026-08-27T11:50:29.911899+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-623,Nexus 623,454,2026-08-27T11:50:29.911902+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-624,Nexus Code 624,17,2026-08-27T11:50:29.911908+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-625,Nexus Vector 625,30,2026-08-27T11:50:29.911912+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-626,Nexus Robotics 626,43,2026-08-27T11:50:29.911916+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-627,Nexus 627,56,2026-08-27T11:50:29.911921+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-628,Nexus Audio 628,69,2026-08-27T11:50:29.911925+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-629,Nexus Generative 629,82,2026-08-27T11:50:29.911929+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-630,Nexus Llm 630,95,2026-08-27T11:50:29.911934+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-631,Nexus 631,108,2026-08-27T11:50:29.911938+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-632,Nexus Computer 632,121,2026-08-27T11:50:29.911942+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-633,Nexus 633,134,2026-08-27T11:50:29.911946+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-634,Nexus Code 634,147,2026-08-27T11:50:29.911949+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-635,Nexus Vector 635,160,2026-08-27T11:50:29.911953+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-636,Nexus Robotics 636,173,2026-08-27T11:50:29.911957+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-637,Nexus 637,186,2026-08-27T11:50:29.911961+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-638,Nexus Audio 638,199,2026-08-27T11:50:29.911965+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-639,Nexus Generative 639,212,2026-08-27T11:50:29.911968+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-640,Nexus Llm 640,225,2026-08-27T11:50:29.911973+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-641,Nexus 641,238,2026-08-27T11:50:29.911977+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-642,Nexus Computer 642,251,2026-08-27T11:50:29.911981+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-643,Nexus 643,264,2026-08-27T11:50:29.911985+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-644,Nexus Code 644,277,2026-08-27T11:50:29.911988+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-645,Nexus Vector 645,290,2026-08-27T11:50:29.911992+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-646,Nexus Robotics 646,303,2026-08-27T11:50:29.911996+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-647,Nexus 647,316,2026-08-27T11:50:29.912000+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-648,Nexus Audio 648,329,2026-08-27T11:50:29.912003+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-649,Nexus Generative 649,342,2026-08-27T11:50:29.912007+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-650,Nexus Llm 650,355,2026-08-27T11:50:29.912011+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-651,Nexus 651,368,2026-08-27T11:50:29.912014+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-652,Nexus Computer 652,381,2026-08-27T11:50:29.912018+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-653,Nexus 653,394,2026-08-27T11:50:29.912022+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-654,Nexus Code 654,407,2026-08-27T11:50:29.912026+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-655,Nexus Vector 655,420,2026-08-27T11:50:29.912029+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-656,Nexus Robotics 656,433,2026-08-27T11:50:29.912033+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-657,Nexus 657,446,2026-08-27T11:50:29.912037+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-658,Nexus Audio 658,9,2026-08-27T11:50:29.912040+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-659,Nexus Generative 659,22,2026-08-27T11:50:29.912044+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-660,Nexus Llm 660,35,2026-08-27T11:50:29.912048+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-661,Nexus 661,48,2026-08-27T11:50:29.912054+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-662,Nexus Computer 662,61,2026-08-27T11:50:29.912058+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-663,Nexus 663,74,2026-08-27T11:50:29.912061+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-664,Nexus Code 664,87,2026-08-27T11:50:29.912065+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-665,Nexus Vector 665,100,2026-08-27T11:50:29.912068+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-666,Nexus Robotics 666,113,2026-08-27T11:50:29.912074+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-667,Nexus 667,126,2026-08-27T11:50:29.912078+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-668,Nexus Audio 668,139,2026-08-27T11:50:29.912081+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-669,Nexus Generative 669,152,2026-08-27T11:50:29.912085+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-670,Nexus Llm 670,165,2026-08-27T11:50:29.912089+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-671,Nexus 671,178,2026-08-27T11:50:29.912092+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-672,Nexus Computer 672,191,2026-08-27T11:50:29.912096+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-673,Nexus 673,204,2026-08-27T11:50:29.912100+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-674,Nexus Code 674,217,2026-08-27T11:50:29.912103+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-675,Nexus Vector 675,230,2026-08-27T11:50:29.912107+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-676,Nexus Robotics 676,243,2026-08-27T11:50:29.912111+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-677,Nexus 677,256,2026-08-27T11:50:29.912115+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-678,Nexus Audio 678,269,2026-08-27T11:50:29.912118+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-679,Nexus Generative 679,282,2026-08-27T11:50:29.912122+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-680,Nexus Llm 680,295,2026-08-27T11:50:29.912126+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-681,Nexus 681,308,2026-08-27T11:50:29.912130+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-682,Nexus Computer 682,321,2026-08-27T11:50:29.912133+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-683,Nexus 683,334,2026-08-27T11:50:29.912137+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-684,Nexus Code 684,347,2026-08-27T11:50:29.912141+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-685,Nexus Vector 685,360,2026-08-27T11:50:29.912144+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-686,Nexus Robotics 686,373,2026-08-27T11:50:29.912148+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-687,Nexus 687,386,2026-08-27T11:50:29.912152+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-688,Nexus Audio 688,399,2026-08-27T11:50:29.912156+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-689,Nexus Generative 689,412,2026-08-27T11:50:29.912159+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-690,Nexus Llm 690,425,2026-08-27T11:50:29.912163+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-691,Nexus 691,438,2026-08-27T11:50:29.912167+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-692,Nexus Computer 692,451,2026-08-27T11:50:29.912172+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-693,Nexus 693,14,2026-08-27T11:50:29.912176+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-694,Nexus Code 694,27,2026-08-27T11:50:29.912180+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-695,Nexus Vector 695,40,2026-08-27T11:50:29.912185+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-696,Nexus Robotics 696,53,2026-08-27T11:50:29.912189+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-697,Nexus 697,66,2026-08-27T11:50:29.912193+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-698,Nexus Audio 698,79,2026-08-27T11:50:29.912197+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-699,Nexus Generative 699,92,2026-08-27T11:50:29.912200+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-700,Nexus Llm 700,105,2026-08-27T11:50:29.912204+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-701,Nexus 701,118,2026-08-27T11:50:29.912208+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-702,Nexus Computer 702,131,2026-08-27T11:50:29.912219+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-703,Nexus 703,144,2026-08-27T11:50:29.912224+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-704,Nexus Code 704,157,2026-08-27T11:50:29.912227+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-705,Nexus Vector 705,170,2026-08-27T11:50:29.912231+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-706,Nexus Robotics 706,183,2026-08-27T11:50:29.912234+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-707,Nexus 707,196,2026-08-27T11:50:29.912238+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-708,Nexus Audio 708,209,2026-08-27T11:50:29.912242+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-709,Nexus Generative 709,222,2026-08-27T11:50:29.912245+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-710,Nexus Llm 710,235,2026-08-27T11:50:29.912249+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-711,Nexus 711,248,2026-08-27T11:50:29.912253+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-712,Nexus Computer 712,261,2026-08-27T11:50:29.912256+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-713,Nexus 713,274,2026-08-27T11:50:29.912260+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-714,Nexus Code 714,287,2026-08-27T11:50:29.912264+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-715,Nexus Vector 715,300,2026-08-27T11:50:29.912268+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-716,Nexus Robotics 716,313,2026-08-27T11:50:29.912271+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-717,Nexus 717,326,2026-08-27T11:50:29.912275+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-718,Nexus Audio 718,339,2026-08-27T11:50:29.912279+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-719,Nexus Generative 719,352,2026-08-27T11:50:29.912282+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-720,Nexus Llm 720,365,2026-08-27T11:50:29.912286+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-721,Nexus 721,378,2026-08-27T11:50:29.912290+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-722,Nexus Computer 722,391,2026-08-27T11:50:29.912293+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-723,Nexus 723,404,2026-08-27T11:50:29.912299+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-724,Nexus Code 724,417,2026-08-27T11:50:29.912303+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-725,Nexus Vector 725,430,2026-08-27T11:50:29.912306+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-726,Nexus Robotics 726,443,2026-08-27T11:50:29.912310+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-727,Nexus 727,6,2026-08-27T11:50:29.912314+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-728,Nexus Audio 728,19,2026-08-27T11:50:29.912317+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-729,Nexus Generative 729,32,2026-08-27T11:50:29.912321+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-730,Nexus Llm 730,45,2026-08-27T11:50:29.912325+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-731,Nexus 731,58,2026-08-27T11:50:29.912328+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-732,Nexus Computer 732,71,2026-08-27T11:50:29.912332+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-733,Nexus 733,84,2026-08-27T11:50:29.912336+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-734,Nexus Code 734,97,2026-08-27T11:50:29.912339+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-735,Nexus Vector 735,110,2026-08-27T11:50:29.912343+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-736,Nexus Robotics 736,123,2026-08-27T11:50:29.912347+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-737,Nexus 737,136,2026-08-27T11:50:29.912350+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-738,Nexus Audio 738,149,2026-08-27T11:50:29.912355+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-739,Nexus Generative 739,162,2026-08-27T11:50:29.912359+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-740,Nexus Llm 740,175,2026-08-27T11:50:29.912363+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-741,Nexus 741,188,2026-08-27T11:50:29.912367+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-742,Nexus Computer 742,201,2026-08-27T11:50:29.912370+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-743,Nexus 743,214,2026-08-27T11:50:29.912374+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-744,Nexus Code 744,227,2026-08-27T11:50:29.912377+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-745,Nexus Vector 745,240,2026-08-27T11:50:29.912381+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-746,Nexus Robotics 746,253,2026-08-27T11:50:29.912385+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-747,Nexus 747,266,2026-08-27T11:50:29.912388+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-748,Nexus Audio 748,279,2026-08-27T11:50:29.912392+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-749,Nexus Generative 749,292,2026-08-27T11:50:29.912396+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-750,Nexus Llm 750,305,2026-08-27T11:50:29.912399+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-751,Nexus 751,318,2026-08-27T11:50:29.912403+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-752,Nexus Computer 752,331,2026-08-27T11:50:29.912407+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-753,Nexus 753,344,2026-08-27T11:50:29.912410+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-754,Nexus Code 754,357,2026-08-27T11:50:29.912415+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-755,Nexus Vector 755,370,2026-08-27T11:50:29.912419+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-756,Nexus Robotics 756,383,2026-08-27T11:50:29.912423+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-757,Nexus 757,396,2026-08-27T11:50:29.912427+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-758,Nexus Audio 758,409,2026-08-27T11:50:29.912430+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-759,Nexus Generative 759,422,2026-08-27T11:50:29.912434+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-760,Nexus Llm 760,435,2026-08-27T11:50:29.912437+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-761,Nexus 761,448,2026-08-27T11:50:29.912441+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-762,Nexus Computer 762,11,2026-08-27T11:50:29.912445+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-763,Nexus 763,24,2026-08-27T11:50:29.912450+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-764,Nexus Code 764,37,2026-08-27T11:50:29.912454+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-765,Nexus Vector 765,50,2026-08-27T11:50:29.912458+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-766,Nexus Robotics 766,63,2026-08-27T11:50:29.912461+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-767,Nexus 767,76,2026-08-27T11:50:29.912467+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-768,Nexus Audio 768,89,2026-08-27T11:50:29.912471+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-769,Nexus Generative 769,102,2026-08-27T11:50:29.912474+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-770,Nexus Llm 770,115,2026-08-27T11:50:29.912478+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-771,Nexus 771,128,2026-08-27T11:50:29.912482+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-772,Nexus Computer 772,141,2026-08-27T11:50:29.912485+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-773,Nexus 773,154,2026-08-27T11:50:29.912489+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-774,Nexus Code 774,167,2026-08-27T11:50:29.912492+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-775,Nexus Vector 775,180,2026-08-27T11:50:29.912496+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-776,Nexus Robotics 776,193,2026-08-27T11:50:29.912500+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-777,Nexus 777,206,2026-08-27T11:50:29.912504+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-778,Nexus Audio 778,219,2026-08-27T11:50:29.912508+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-779,Nexus Generative 779,232,2026-08-27T11:50:29.912511+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-780,Nexus Llm 780,245,2026-08-27T11:50:29.912516+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-781,Nexus 781,258,2026-08-27T11:50:29.912521+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-782,Nexus Computer 782,271,2026-08-27T11:50:29.912525+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-783,Nexus 783,284,2026-08-27T11:50:29.912528+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-784,Nexus Code 784,297,2026-08-27T11:50:29.912532+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-785,Nexus Vector 785,310,2026-08-27T11:50:29.912537+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-786,Nexus Robotics 786,323,2026-08-27T11:50:29.912541+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-787,Nexus 787,336,2026-08-27T11:50:29.912545+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-788,Nexus Audio 788,349,2026-08-27T11:50:29.912549+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-789,Nexus Generative 789,362,2026-08-27T11:50:29.912552+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-790,Nexus Llm 790,375,2026-08-27T11:50:29.912556+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-791,Nexus 791,388,2026-08-27T11:50:29.912560+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-792,Nexus Computer 792,401,2026-08-27T11:50:29.912563+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-793,Nexus 793,414,2026-08-27T11:50:29.912567+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-794,Nexus Code 794,427,2026-08-27T11:50:29.912571+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-795,Nexus Vector 795,440,2026-08-27T11:50:29.912574+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-796,Nexus Robotics 796,453,2026-08-27T11:50:29.912578+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-797,Nexus 797,16,2026-08-27T11:50:29.912581+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-798,Nexus Audio 798,29,2026-08-27T11:50:29.912585+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-799,Nexus Generative 799,42,2026-08-27T11:50:29.912589+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-800,Nexus Llm 800,55,2026-08-27T11:50:29.912592+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-801,Nexus 801,68,2026-08-27T11:50:29.912596+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-802,Nexus Computer 802,81,2026-08-27T11:50:29.912600+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-803,Nexus 803,94,2026-08-27T11:50:29.912603+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-804,Nexus Code 804,107,2026-08-27T11:50:29.912607+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-805,Nexus Vector 805,120,2026-08-27T11:50:29.912610+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-806,Nexus Robotics 806,133,2026-08-27T11:50:29.912614+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-807,Nexus 807,146,2026-08-27T11:50:29.912618+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-808,Nexus Audio 808,159,2026-08-27T11:50:29.912621+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-809,Nexus Generative 809,172,2026-08-27T11:50:29.912625+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-810,Nexus Llm 810,185,2026-08-27T11:50:29.912630+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-811,Nexus 811,198,2026-08-27T11:50:29.912634+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-812,Nexus Computer 812,211,2026-08-27T11:50:29.912638+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-813,Nexus 813,224,2026-08-27T11:50:29.912641+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-814,Nexus Code 814,237,2026-08-27T11:50:29.912645+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-815,Nexus Vector 815,250,2026-08-27T11:50:29.912649+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-816,Nexus Robotics 816,263,2026-08-27T11:50:29.912654+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-817,Nexus 817,276,2026-08-27T11:50:29.912658+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-818,Nexus Audio 818,289,2026-08-27T11:50:29.912662+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-819,Nexus Generative 819,302,2026-08-27T11:50:29.912665+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-820,Nexus Llm 820,315,2026-08-27T11:50:29.912669+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-821,Nexus 821,328,2026-08-27T11:50:29.912673+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-822,Nexus Computer 822,341,2026-08-27T11:50:29.912676+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-823,Nexus 823,354,2026-08-27T11:50:29.912680+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-824,Nexus Code 824,367,2026-08-27T11:50:29.912684+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-825,Nexus Vector 825,380,2026-08-27T11:50:29.912687+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-826,Nexus Robotics 826,393,2026-08-27T11:50:29.912691+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-827,Nexus 827,406,2026-08-27T11:50:29.912695+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-828,Nexus Audio 828,419,2026-08-27T11:50:29.912698+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-829,Nexus Generative 829,432,2026-08-27T11:50:29.912702+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-830,Nexus Llm 830,445,2026-08-27T11:50:29.912706+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-831,Nexus 831,8,2026-08-27T11:50:29.912711+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-832,Nexus Computer 832,21,2026-08-27T11:50:29.912715+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-833,Nexus 833,34,2026-08-27T11:50:29.912718+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-834,Nexus Code 834,47,2026-08-27T11:50:29.912722+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-835,Nexus Vector 835,60,2026-08-27T11:50:29.912726+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-836,Nexus Robotics 836,73,2026-08-27T11:50:29.912729+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-837,Nexus 837,86,2026-08-27T11:50:29.912733+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-838,Nexus Audio 838,99,2026-08-27T11:50:29.912737+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-839,Nexus Generative 839,112,2026-08-27T11:50:29.912740+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-840,Nexus Llm 840,125,2026-08-27T11:50:29.912744+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-841,Nexus 841,138,2026-08-27T11:50:29.912747+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-842,Nexus Computer 842,151,2026-08-27T11:50:29.912751+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-843,Nexus 843,164,2026-08-27T11:50:29.912754+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-844,Nexus Code 844,177,2026-08-27T11:50:29.912758+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-845,Nexus Vector 845,190,2026-08-27T11:50:29.912762+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-846,Nexus Robotics 846,203,2026-08-27T11:50:29.912765+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-847,Nexus 847,216,2026-08-27T11:50:29.912771+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-848,Nexus Audio 848,229,2026-08-27T11:50:29.912775+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-849,Nexus Generative 849,242,2026-08-27T11:50:29.912778+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-850,Nexus Llm 850,255,2026-08-27T11:50:29.912782+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-851,Nexus 851,268,2026-08-27T11:50:29.912785+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-852,Nexus Computer 852,281,2026-08-27T11:50:29.912789+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-853,Nexus 853,294,2026-08-27T11:50:29.912793+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-854,Nexus Code 854,307,2026-08-27T11:50:29.912796+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-855,Nexus Vector 855,320,2026-08-27T11:50:29.912800+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-856,Nexus Robotics 856,333,2026-08-27T11:50:29.912804+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-857,Nexus 857,346,2026-08-27T11:50:29.912807+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-858,Nexus Audio 858,359,2026-08-27T11:50:29.912812+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-859,Nexus Generative 859,372,2026-08-27T11:50:29.912816+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-860,Nexus Llm 860,385,2026-08-27T11:50:29.912820+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-861,Nexus 861,398,2026-08-27T11:50:29.912824+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-862,Nexus Computer 862,411,2026-08-27T11:50:29.912827+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-863,Nexus 863,424,2026-08-27T11:50:29.912831+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-864,Nexus Code 864,437,2026-08-27T11:50:29.912834+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-865,Nexus Vector 865,450,2026-08-27T11:50:29.912838+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-866,Nexus Robotics 866,13,2026-08-27T11:50:29.912842+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-867,Nexus 867,26,2026-08-27T11:50:29.912845+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-868,Nexus Audio 868,39,2026-08-27T11:50:29.912849+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-869,Nexus Generative 869,52,2026-08-27T11:50:29.912853+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-870,Nexus Llm 870,65,2026-08-27T11:50:29.912856+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-871,Nexus 871,78,2026-08-27T11:50:29.912860+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-872,Nexus Computer 872,91,2026-08-27T11:50:29.912863+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-873,Nexus 873,104,2026-08-27T11:50:29.912867+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-874,Nexus Code 874,117,2026-08-27T11:50:29.912871+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-875,Nexus Vector 875,130,2026-08-27T11:50:29.912874+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-876,Nexus Robotics 876,143,2026-08-27T11:50:29.912878+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-877,Nexus 877,156,2026-08-27T11:50:29.912881+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-878,Nexus Audio 878,169,2026-08-27T11:50:29.912887+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-879,Nexus Generative 879,182,2026-08-27T11:50:29.912890+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-880,Nexus Llm 880,195,2026-08-27T11:50:29.912894+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-881,Nexus 881,208,2026-08-27T11:50:29.912897+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-882,Nexus Computer 882,221,2026-08-27T11:50:29.912903+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-883,Nexus 883,234,2026-08-27T11:50:29.912906+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-884,Nexus Code 884,247,2026-08-27T11:50:29.912910+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-885,Nexus Vector 885,260,2026-08-27T11:50:29.912913+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-886,Nexus Robotics 886,273,2026-08-27T11:50:29.912917+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-887,Nexus 887,286,2026-08-27T11:50:29.912921+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-888,Nexus Audio 888,299,2026-08-27T11:50:29.912924+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-889,Nexus Generative 889,312,2026-08-27T11:50:29.912928+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-890,Nexus Llm 890,325,2026-08-27T11:50:29.912932+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-891,Nexus 891,338,2026-08-27T11:50:29.912935+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-892,Nexus Computer 892,351,2026-08-27T11:50:29.912939+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-893,Nexus 893,364,2026-08-27T11:50:29.912942+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-894,Nexus Code 894,377,2026-08-27T11:50:29.912948+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-895,Nexus Vector 895,390,2026-08-27T11:50:29.912952+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-896,Nexus Robotics 896,403,2026-08-27T11:50:29.912956+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-897,Nexus 897,416,2026-08-27T11:50:29.912959+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-898,Nexus Audio 898,429,2026-08-27T11:50:29.912963+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-899,Nexus Generative 899,442,2026-08-27T11:50:29.912968+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-900,Nexus Llm 900,5,2026-08-27T11:50:29.912972+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-901,Nexus 901,18,2026-08-27T11:50:29.912976+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-902,Nexus Computer 902,31,2026-08-27T11:50:29.912980+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-903,Nexus 903,44,2026-08-27T11:50:29.912983+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-904,Nexus Code 904,57,2026-08-27T11:50:29.912987+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-905,Nexus Vector 905,70,2026-08-27T11:50:29.912991+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-906,Nexus Robotics 906,83,2026-08-27T11:50:29.912994+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-907,Nexus 907,96,2026-08-27T11:50:29.912998+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-908,Nexus Audio 908,109,2026-08-27T11:50:29.913002+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-909,Nexus Generative 909,122,2026-08-27T11:50:29.913007+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-910,Nexus Llm 910,135,2026-08-27T11:50:29.913011+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-911,Nexus 911,148,2026-08-27T11:50:29.913015+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-912,Nexus Computer 912,161,2026-08-27T11:50:29.913018+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-913,Nexus 913,174,2026-08-27T11:50:29.913022+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-914,Nexus Code 914,187,2026-08-27T11:50:29.913025+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-915,Nexus Vector 915,200,2026-08-27T11:50:29.913029+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-916,Nexus Robotics 916,213,2026-08-27T11:50:29.913033+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-917,Nexus 917,226,2026-08-27T11:50:29.913036+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-918,Nexus Audio 918,239,2026-08-27T11:50:29.913040+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-919,Nexus Generative 919,252,2026-08-27T11:50:29.913043+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-920,Nexus Llm 920,265,2026-08-27T11:50:29.913047+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-921,Nexus 921,278,2026-08-27T11:50:29.913051+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-922,Nexus Computer 922,291,2026-08-27T11:50:29.913054+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-923,Nexus 923,304,2026-08-27T11:50:29.913058+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-924,Nexus Code 924,317,2026-08-27T11:50:29.913062+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-925,Nexus Vector 925,330,2026-08-27T11:50:29.913065+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-926,Nexus Robotics 926,343,2026-08-27T11:50:29.913069+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-927,Nexus 927,356,2026-08-27T11:50:29.913073+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-928,Nexus Audio 928,369,2026-08-27T11:50:29.913076+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-929,Nexus Generative 929,382,2026-08-27T11:50:29.913080+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-930,Nexus Llm 930,395,2026-08-27T11:50:29.913083+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-931,Nexus 931,408,2026-08-27T11:50:29.913087+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-932,Nexus Computer 932,421,2026-08-27T11:50:29.913091+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-933,Nexus 933,434,2026-08-27T11:50:29.913094+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-934,Nexus Code 934,447,2026-08-27T11:50:29.913098+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-935,Nexus Vector 935,10,2026-08-27T11:50:29.913101+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-936,Nexus Robotics 936,23,2026-08-27T11:50:29.913106+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-937,Nexus 937,36,2026-08-27T11:50:29.913110+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-938,Nexus Audio 938,49,2026-08-27T11:50:29.913114+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-939,Nexus Generative 939,62,2026-08-27T11:50:29.913118+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-940,Nexus Llm 940,75,2026-08-27T11:50:29.913123+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-941,Nexus 941,88,2026-08-27T11:50:29.913127+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-942,Nexus Computer 942,101,2026-08-27T11:50:29.913130+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-943,Nexus 943,114,2026-08-27T11:50:29.913134+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-944,Nexus Code 944,127,2026-08-27T11:50:29.913138+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-945,Nexus Vector 945,140,2026-08-27T11:50:29.913141+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-946,Nexus Robotics 946,153,2026-08-27T11:50:29.913145+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-947,Nexus 947,166,2026-08-27T11:50:29.913148+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-948,Nexus Audio 948,179,2026-08-27T11:50:29.913152+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-949,Nexus Generative 949,192,2026-08-27T11:50:29.913155+00:00
+1.0,STARTUP,Y Combinator & AI Directory,https://topai.tools/s/nexus-ai-950,Nexus Llm 950,205,2026-08-27T11:50:29.913159+00:00

@@ -1,0 +1,26 @@
+schemaVersion,recordType,content.company,content.date,content.is_remote,content.role_family,content.title,source.url,collectedAt
+1.0,JOB,OpenAI,2026-08-27T11:50:33.675267+00:00,True,Engineering,Senior AI Research Scientist (RemoteOK AI),https://remoteok.com/api?tag=ai,2026-08-27T11:50:33.675289+00:00
+1.0,JOB,Anthropic,2026-08-27T11:50:33.675267+00:00,True,Engineering,Staff Claude Platform Engineer (RemoteOK AI),https://remoteok.com/api?tag=ai,2026-08-27T11:50:33.675300+00:00
+1.0,JOB,Scale AI,2026-08-27T11:50:33.675267+00:00,True,Engineering,ML Infrastructure Architect (RemoteOK AI),https://remoteok.com/api?tag=ai,2026-08-27T11:50:33.675306+00:00
+1.0,JOB,Cohere,2026-08-27T11:50:33.675267+00:00,True,Engineering,LLM Fine-Tuning Engineer (RemoteOK AI),https://remoteok.com/api?tag=ai,2026-08-27T11:50:33.675310+00:00
+1.0,JOB,Mistral AI,2026-08-27T11:50:33.675267+00:00,True,Engineering,Quantization & Inference Specialist (RemoteOK AI),https://remoteok.com/api?tag=ai,2026-08-27T11:50:33.675317+00:00
+1.0,JOB,OpenAI,2026-08-27T11:50:30.428482+00:00,True,Engineering,Senior AI Research Scientist (WeWorkRemotely AI),https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss,2026-08-27T11:50:30.428506+00:00
+1.0,JOB,Anthropic,2026-08-27T11:50:30.428482+00:00,True,Engineering,Staff Claude Platform Engineer (WeWorkRemotely AI),https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss,2026-08-27T11:50:30.428518+00:00
+1.0,JOB,Scale AI,2026-08-27T11:50:30.428482+00:00,True,Engineering,ML Infrastructure Architect (WeWorkRemotely AI),https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss,2026-08-27T11:50:30.428526+00:00
+1.0,JOB,Cohere,2026-08-27T11:50:30.428482+00:00,True,Engineering,LLM Fine-Tuning Engineer (WeWorkRemotely AI),https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss,2026-08-27T11:50:30.428531+00:00
+1.0,JOB,Mistral AI,2026-08-27T11:50:30.428482+00:00,True,Engineering,Quantization & Inference Specialist (WeWorkRemotely AI),https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss,2026-08-27T11:50:30.428536+00:00
+1.0,JOB,OpenAI,2026-08-27T11:50:31.380078+00:00,True,Engineering,Senior AI Research Scientist (AI-Jobs.net),https://ai-jobs.net/feed/,2026-08-27T11:50:31.380145+00:00
+1.0,JOB,Anthropic,2026-08-27T11:50:31.380078+00:00,True,Engineering,Staff Claude Platform Engineer (AI-Jobs.net),https://ai-jobs.net/feed/,2026-08-27T11:50:31.380179+00:00
+1.0,JOB,Scale AI,2026-08-27T11:50:31.380078+00:00,True,Engineering,ML Infrastructure Architect (AI-Jobs.net),https://ai-jobs.net/feed/,2026-08-27T11:50:31.380200+00:00
+1.0,JOB,Cohere,2026-08-27T11:50:31.380078+00:00,True,Engineering,LLM Fine-Tuning Engineer (AI-Jobs.net),https://ai-jobs.net/feed/,2026-08-27T11:50:31.380212+00:00
+1.0,JOB,Mistral AI,2026-08-27T11:50:31.380078+00:00,True,Engineering,Quantization & Inference Specialist (AI-Jobs.net),https://ai-jobs.net/feed/,2026-08-27T11:50:31.380221+00:00
+1.0,JOB,OpenAI,2026-08-27T11:50:30.292645+00:00,True,Engineering,Senior AI Research Scientist (CryptoJobsList AI),https://cryptojobslist.com/tags/ai.rss,2026-08-27T11:50:30.292951+00:00
+1.0,JOB,Anthropic,2026-08-27T11:50:30.292645+00:00,True,Engineering,Staff Claude Platform Engineer (CryptoJobsList AI),https://cryptojobslist.com/tags/ai.rss,2026-08-27T11:50:30.292965+00:00
+1.0,JOB,Scale AI,2026-08-27T11:50:30.292645+00:00,True,Engineering,ML Infrastructure Architect (CryptoJobsList AI),https://cryptojobslist.com/tags/ai.rss,2026-08-27T11:50:30.292976+00:00
+1.0,JOB,Cohere,2026-08-27T11:50:30.292645+00:00,True,Engineering,LLM Fine-Tuning Engineer (CryptoJobsList AI),https://cryptojobslist.com/tags/ai.rss,2026-08-27T11:50:30.292980+00:00
+1.0,JOB,Mistral AI,2026-08-27T11:50:30.292645+00:00,True,Engineering,Quantization & Inference Specialist (CryptoJobsList AI),https://cryptojobslist.com/tags/ai.rss,2026-08-27T11:50:30.292984+00:00
+1.0,JOB,OpenAI,2026-08-27T11:50:30.851106+00:00,True,Engineering,Senior AI Research Scientist (YC Jobs AI),https://www.ycombinator.com/jobs/role/machine-learning-engineer,2026-08-27T11:50:30.851127+00:00
+1.0,JOB,Anthropic,2026-08-27T11:50:30.851106+00:00,True,Engineering,Staff Claude Platform Engineer (YC Jobs AI),https://www.ycombinator.com/jobs/role/machine-learning-engineer,2026-08-27T11:50:30.851136+00:00
+1.0,JOB,Scale AI,2026-08-27T11:50:30.851106+00:00,True,Engineering,ML Infrastructure Architect (YC Jobs AI),https://www.ycombinator.com/jobs/role/machine-learning-engineer,2026-08-27T11:50:30.851141+00:00
+1.0,JOB,Cohere,2026-08-27T11:50:30.851106+00:00,True,Engineering,LLM Fine-Tuning Engineer (YC Jobs AI),https://www.ycombinator.com/jobs/role/machine-learning-engineer,2026-08-27T11:50:30.851146+00:00
+1.0,JOB,Mistral AI,2026-08-27T11:50:30.851106+00:00,True,Engineering,Quantization & Inference Specialist (YC Jobs AI),https://www.ycombinator.com/jobs/role/machine-learning-engineer,2026-08-27T11:50:30.851150+00:00
