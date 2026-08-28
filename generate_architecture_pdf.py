@@ -150,6 +150,7 @@ def build_pdf(filename: str = "architecture.pdf"):
         ('BOTTOMPADDING', (0,0), (-1,-1), 5),
     ]))
 
+    story.append(Spacer(1, 6))
     story.append(table)
     story.append(Spacer(1, 10))
     story.append(HRFlowable(width="100%", thickness=0.5, color=colors.HexColor('#CBD5E1'), spaceAfter=6))
