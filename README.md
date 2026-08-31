@@ -1,6 +1,6 @@
-# GraphOne / FrontierAtlas - AI Engineer Pipeline & Intelligence Engine
+# AI Engineer Pipeline & Intelligence Engine
 
-A scalable, fault-tolerant data ingestion pipeline and entity resolution engine architected for the **GraphOne / FrontierAtlas** Intelligence Graph for the AI and venture ecosystem.
+A scalable, fault-tolerant data ingestion pipeline and entity resolution engine architected for the AI and venture ecosystem.
 
 ---
 
